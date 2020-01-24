@@ -1,0 +1,6 @@
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.dll
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\bin\Debug\Assignment4DatabaseClassLibrary.pdb
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.csprojAssemblyReference.cache
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.dll
+C:\Users\shawn\Documents\School\Semester 7 (Fall 2018)\VisualProg2\Assignments\Assignment4\Assignment4ShawnDominguez\Assignment4DatabaseClassLibrary\obj\Debug\Assignment4DatabaseClassLibrary.pdb
